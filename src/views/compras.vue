@@ -166,7 +166,7 @@ ul {
 
 .product-price, .product-quantity {
   color: #666;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .boton {
